@@ -14,7 +14,7 @@ from selenium.webdriver.common.by import By
 
 
 import re
-asd
+asdqweqwe
 try:
 #вы пишите свой код
 
